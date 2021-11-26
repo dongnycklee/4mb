@@ -25,6 +25,12 @@
     <img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/4FqUptu7rJ.png">
     <img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/hQMl2G5N4h.png">
     ---   
+    
+    
+--  
+<img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/G6lV8sxt2F.jpg">
+
+---   
 #### 회원가입 : 일반 유저 회원가입
     -   유효성 검사,  중복확인
     <img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/11mWSpnuTl.png">
