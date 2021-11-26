@@ -30,21 +30,34 @@
    
 #### 회원가입 : 일반 유저 회원가입
     -   유효성 검사,  중복확인
-    <img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/11mWSpnuTl.png">
+    
+--      
+<img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/11mWSpnuTl.png">
+---  
 #### 로그인 
     -   아이디 찾기, 비밀번호 메일로 찾기
-    <img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/cjQ1LSiILC.png">
+    
+--      
+<img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/cjQ1LSiILC.png">
+---      
 #### 숙소 예약
     -   데이터베이스 저장
-    <img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/TNWrAaexBu.png">
+    
+--          
+<img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/TNWrAaexBu.png">
+---   
 #### 공지사항
     -   블루웹 라이브러리 사용
-    <img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/ql5amzEEF1.png">
+--       
+<img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/ql5amzEEF1.png">
+---   
 #### 만나는 길
     -   다음 지도 API 사용
 #### 관광명소
     -   영상 삽입
-    <img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/m7enflKWgV.png">
+--    
+<img width="700" alt="스크린샷 2021-10-15 오후 3 51 02" src="https://i.esdrop.com/d/cl3pewp2aooj/m7enflKWgV.png">
+---   
 #### 마이페이지
     -   회원정보 수정, 예약한 숙소 관리
 
